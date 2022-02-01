@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Getting on the Web</title>
+    </head>
+
+    <body>
+        <h1>Hello!</h1>
+        I'm <b>Adonai Addo</b>, a CS major in the <i>class of 2024.</i> <br /><br />
+        My IP address is: <br /><br />
+        I grew up in Kumasi, Ghana. <br /><br />
+        <em>A few fun facts about me are:</em>
+
+        <ul>
+            <li>I can wiggle my ears</li>
+            <li>I like sprinting</li>
+            <li>I loveee ice cream</li>
+        </ul>
+
+        My favorite place on campus is the <a href = "https://www.flickr.com/photos/jesspictures/30008666201">Tisch roof</a> <br /><br />
+        <img src = "Programming/Tisch roof sunset.jpg" alt = "Tisch roof during sunset"/>
+    </body>
+</html>
